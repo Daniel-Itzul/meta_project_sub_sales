@@ -1,0 +1,6 @@
+Transaction ID,Customer ID,Date,Total Value,Product Category,Payment Method,Sales Representative
+'Tra1','Cus1','2023-12-01',100,'Category 1','Channel-1','Channel-1'
+'Tra2','Cus2','2023-12-02',200,'Category 2','Channel-2','Channel-2'
+'Tra3','Cus3','2023-12-03',300,'Category 3','Channel-3','Channel-3'
+'Tra4','Cus4','2023-12-04',400,'Category 4','Channel-4','Channel-4'
+'Tra5','Cus5','2023-12-05',500,'Category 5','Channel-5','Channel-5'

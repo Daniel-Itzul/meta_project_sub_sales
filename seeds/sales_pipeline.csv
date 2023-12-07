@@ -1,0 +1,6 @@
+Lead ID,Customer ID,Stage,Probability of Closing,Expected Close Date,Forecasted Value,Sales Representative
+'Lea1','Cus1','Stage 1',10,'2023-12-01',100,'Channel-1'
+'Lea2','Cus2','Stage 2',20,'2023-12-02',200,'Channel-2'
+'Lea3','Cus3','Stage 3',30,'2023-12-03',300,'Channel-3'
+'Lea4','Cus4','Stage 4',40,'2023-12-04',400,'Channel-4'
+'Lea5','Cus5','Stage 5',50,'2023-12-05',500,'Channel-5'
